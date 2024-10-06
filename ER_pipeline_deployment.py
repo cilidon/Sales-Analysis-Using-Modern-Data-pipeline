@@ -59,17 +59,6 @@
 # #     subprocess.run(["dbt", "run"], check=True)
 
 
-
-# file_path = "Hospital ER.csv"
-# snowflake_credentials = {
-#     "user": "cilidon",
-#     "password": "Abcd@1234",
-#     "account": "vo03699.us-east-2.aws",
-#     "warehouse": "er_wh",
-#     "database": "er_db",
-#     "schema": "er_schema"
-# }
-
 # # Create the Prefect flow
 # with Flow("Excel to Snowflake ETL with DBT") as flow:
 #     data = fetch_data_from_excel(file_path)
@@ -173,8 +162,8 @@ def run_dbt():
 # Define your file path and Snowflake credentials
 file_path = "Hospital ER.csv"
 snowflake_credentials = {
-    "user": "cilidon",
-    "password": "Abcd@1234",
+    "user": "Enter username",
+    "password": "Enter Password",
     "account": "vo03699.us-east-2.aws",
     "warehouse": "er_wh",
     "database": "er_db",
