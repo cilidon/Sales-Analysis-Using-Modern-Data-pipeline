@@ -69,8 +69,6 @@
 # def deploy_flow():
 #     # Set Prefect Cloud API URL and API Key
 #     #pnu_UJHlFI7TNYmd0HjJWRqrPjlUbMlBlL1l1jla
-#     PREFECT_API_URL.set("https://api.prefect.cloud/api/accounts/c2619d06-42af-426e-93d8-13c14c349e09/workspace/90334c95-7899-484b-b13b-46dc4953529c")  # Default Prefect Cloud API URL
-#     PREFECT_API_KEY.set("pnu_UJHlFI7TNYmd0HjJWRqrPjlUbMlBlL1l1jla")
 
 #     # Create and apply deployment
 #     deployment = Deployment.build_from_flow(
