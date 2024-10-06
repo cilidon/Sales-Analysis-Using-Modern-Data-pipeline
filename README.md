@@ -25,8 +25,15 @@ This was all orchestrated using prefect.
 
 ## 4. Executive Summary
 
+Sales Dashborad:
+
 ![Screenshot 2024-10-06 165047](https://github.com/user-attachments/assets/e937e9e1-3628-4041-b5f6-eaca9392f2c7)
+
+Customer Dashboard: 
 ![Screenshot 2024-10-06 171151](https://github.com/user-attachments/assets/77e7f34d-7ea9-466c-b6f5-a057bfa1689a)
+
+
+Dashboard can be found [here](https://public.tableau.com/app/profile/mandar.dilip.mhatre/viz/Sales_analysis_17216992735700/SalesDashboard)
 
 Key findings from the analysis include:
 - Total sales increased by 29.5% to $609,000 in 2023
