@@ -19,6 +19,9 @@ The analysis is based on the Tableau Superstore dataset, which contains:
 
 This comprehensive dataset allows for a multifaceted analysis of both customer behavior and sales performance.
 
+
+![Screenshot 2024-07-20 150002](https://github.com/user-attachments/assets/20d87c52-503f-4448-b25c-2b79e5ea5265)
+
 The data was extracted and transformed using DBT(Data Build Tool) that incuded macros and tests for data accuracy and integrity. The data was then stored in snowflake for warehousing. 
 This was all orchestrated using prefect.
 
